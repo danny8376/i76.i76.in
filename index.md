@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# i76.in
 
-You can use the [editor on GitHub](https://github.com/danny8376/i76.i76.in/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+這其實主要是私用的短網址，不過這連結本身看起來很76所以就讓他真的很76了(?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 短網址功能
 
-### Markdown
+`https://i76.in`本身是短網址系統，可以使用 https://i76.in/shorten 來建立短網址，必須要登入後才能使用（一般人會有`fan-`的前綴，網址會是`https://i76.in/fan-`開頭）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 祈菈相關網址
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danny8376/i76.i76.in/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- lit.link
+  - https://i76.in
+  - https://link.i76.in
+- Twitter
+  - https://twitter.i76.in
+- YouTube
+  - https://yt.i76.in
+  - https://youtube.i76.in
+- Facebook
+  - https://fb.i76.in
+  - https://facebook.i76.in
+- 祈菈語音包
+  - https://voice.i76.in
+- 祈菈香圖
+  - https://art.i76.in
+  - https://fanart.i76.in
+- 祈菈語音按鈕
+  - https://btn.i76.in
+  - https://button.i76.in
+- 刪檔直播存檔
+  - https://archive.i76.in
+- Narrator&Storia Discord
+  - https://discord.i76.in
+- 棉花糖
+  - https://ask.i76.in
+- 綠界抖內
+  - https://donate.i76.in
