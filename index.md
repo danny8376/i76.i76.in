@@ -31,6 +31,7 @@
   - <https://archive.i76.in>
 - Narrator&Storia Discord
   - <https://discord.i76.in>
+  - <https://dc.i76.in>
 - 棉花糖
   - <https://ask.i76.in>
 - 綠界抖內
