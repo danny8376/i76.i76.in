@@ -20,6 +20,9 @@
   - <https://youtube.i76.in>
   - <https://i76.in/yt>
   - <https://i76.in/youtube>
+- Twitch
+  - <https://twitch.i76.in>
+  - <https://i76.in/twitch>
 - Facebook
   - <https://fb.i76.in>
   - <https://facebook.i76.in>
