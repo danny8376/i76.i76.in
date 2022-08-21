@@ -44,6 +44,9 @@
 - 刪檔直播存檔
   - <https://archive.i76.in>
   - <https://i76.in/archive>
+- 祈菈唱過的歌單 - 整理清單
+  - <https://songlist.i76.in>
+  - <https://i76.in/songlist>
 - Narrator&Storia Discord
   - <https://discord.i76.in>
   - <https://dc.i76.in>
